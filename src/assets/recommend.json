@@ -1,9 +1,9 @@
 [
   {
-    "key": "awesome-chatgpt-prompts-zh",
-    "desc": "ChatGPT 默认Prompts",
-    "downloadUrl": "https://raw.githubusercontent.com/PlexPt/awesome-chatgpt-prompts-zh/main/prompts-zh.json",
-    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+    "key": "聊天话术",
+    "desc": "在线Prompts--节选自网络,内容自行过滤!",
+    "downloadUrl": "https://ims.asd.com.cn/pc/data/prompts-zh.json",
+    "url": "https://ims.asd.com.cn/pc/data/prompts-zh.json"
   }
 
 ]
