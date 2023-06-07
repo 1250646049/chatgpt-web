@@ -1,3 +1,9 @@
 [
- 
+  {
+    "key": "awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 默认Prompts",
+    "downloadUrl": "https://raw.githubusercontent.com/PlexPt/awesome-chatgpt-prompts-zh/main/prompts-zh.json",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+  }
+
 ]
