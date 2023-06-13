@@ -15,9 +15,9 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://ims.asd.com.cn/img/ims/asd_ims_logo.png',
+       avatar: 'http://www.chinaasd.com/wp-content/uploads/2016/09/logo1.png',
       name: '爱仕达-员工',
-      description: 'Work on <a href="https://ims.asd.com.cn/" class="text-blue-500" target="_blank" >IMS营销系统</a>',
+      description: 'Work on <a href="http://www.chinaasd.com/" class="text-blue-500" target="_blank" >爱仕达</a>',
     },
   }
 }
